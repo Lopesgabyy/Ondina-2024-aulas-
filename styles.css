@@ -9,6 +9,8 @@ header {
     font-size: 32px;
     color: rgb(42, 122, 228);
 }
+/* código omitido */
+
 section {
     background: rgb(184,156,213);
     padding-bottom: 80px;
@@ -16,6 +18,7 @@ section {
     display: flex;
     justify-content: center;
 }
-div {
-    margin-right: 20px;
+
+.chamada-texto {
+    margin-right: 5%;
 }
